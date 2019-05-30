@@ -12,7 +12,7 @@ int main()
 {
 	printf("fdf\naaaaOOOOO");
 	printf("\n\nFFF");
-	printf("\nENDSANO");
+	printf("\nENDSANO2");
 
 	return 0;
 }
