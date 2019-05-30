@@ -13,6 +13,7 @@ int main()
 	printf("fdf\naaaaOOOOO");
 	printf("\n\nFFF");
 	printf("\nENDSANO2");
+	printf("\nEND2");
 
 	return 0;
 }
