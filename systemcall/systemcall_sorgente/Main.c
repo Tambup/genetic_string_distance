@@ -11,5 +11,6 @@
 int main()
 {
 	printf("fdf\naaaaOOOOO");
+	printf("\n\nFFF");
 	return 0;
 }
