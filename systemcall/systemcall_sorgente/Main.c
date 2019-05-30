@@ -10,7 +10,7 @@
 
 int main()
 {
-	printf("fdf\naaaaOO");
+	printf("fdf\naaaa00OO");
 	printf("\n\nFFF");
 	return 0;
 }
