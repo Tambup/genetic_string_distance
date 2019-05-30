@@ -10,6 +10,6 @@
 
 int main()
 {
-	printf("fdf\naaaa");
+	printf("fdf\naaaaOOOOO");
 	return 0;
 }
