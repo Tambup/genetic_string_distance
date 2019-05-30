@@ -13,5 +13,6 @@ int main()
 	printf("fdf\naaaaOOOOO");
 	printf("\n\nFFF");
 	printf("\nEND");
+
 	return 0;
 }
