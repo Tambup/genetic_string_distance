@@ -11,6 +11,6 @@
 int main()
 {
 	printf("fdf\naaaa00OO");
-	printf("\n\nFFF");
+	printf("\n\nFFFA");
 	return 0;
 }
