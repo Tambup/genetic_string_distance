@@ -151,7 +151,6 @@ void routine(const char *confPath)
  * */
 bool presenzaConfig(const char *path)
 {
-	char *ff;
 	DIR *cartella;
 	struct dirent *file;
 
