@@ -21,7 +21,7 @@ int parseInt(FILE *fp, const int MAX_INT)
 }
 
 void parseString(FILE* fp, const int NUM_RIGHE
-		, const int LUNG_RIGA, char nomiFile[][LUNG_RIGA])
+		, const int LUNG_RIGA, char nomiFile[NUM_RIGHE][LUNG_RIGA])
 {
     for(int i=0; i<NUM_RIGHE; i++)
     {
