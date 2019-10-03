@@ -4,7 +4,6 @@
  *  Created on: 30 mag 2019
  *      Author: ????
  */
-//!!!!!!!Dare al linker -lrt -lpthread
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
