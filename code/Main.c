@@ -9,6 +9,7 @@
 #include <unistd.h>
 #include <stdbool.h>
 #include <string.h>
+#include "Cerca_Elabora_config.h"
 
 #define TABULATURA "\n\n------------------------------\n\n"
 #define MAX_STRINGHE_CONFIG 75
@@ -34,7 +35,6 @@ bool avvio(char *confPath)
 
 int main()
 {
-	char continua;
 	bool presente;
     char confPath[MAX_STRINGHE_CONFIG+5];
 

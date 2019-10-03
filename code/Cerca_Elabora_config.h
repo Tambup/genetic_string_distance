@@ -10,7 +10,7 @@
 
 #include <stdbool.h>
 
-bool presenzaConfig(const char);
+bool presenzaConfig(const char*);
 
 void routine(const char[], int, int);
 
